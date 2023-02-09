@@ -7,6 +7,13 @@ import Seo from "../components/seo"
 import * as styles from "../components/index.module.css"
 
 const links = [
+   {
+    text: "My LinkedIn profile",
+    url: "https://www.linkedin.com/in/mateusz-laska-b7aa2669/",
+    description:
+      "It's a great passion for me to develop and implement IT solutions, to make the work of people easier, by automating them. I am willing to act as an intermediary between the world of engineers and software developers.",
+  },
+  
   {
     text: "Tutorial",
     url: "https://www.gatsbyjs.com/docs/tutorial",
